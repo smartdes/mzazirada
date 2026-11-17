@@ -1,7 +1,8 @@
 # MzaziRada 📱🏫
 
-> **Turning every \$10 feature phone into an instant school portal—no smartphones, no apps, zero mobile data required.**  
-> An open-source, high-speed telecommunications bridge connecting school Google Sheets to basic mobile phones via sub-10ms USSD sessions (`*384*XXXX#`) and automated SMS notifications.
+> **MzaziRada is an accessible education gateway built for low-connectivity communities. It allows parents with basic 2G feature phones (*kabambe*) to instantly check their child's school fee balances, exam performance, and attendance records via USSD (`*384*XXXX#`) powered by Africa's Talking.**  
+>  
+> **The entire workflow is deliberately lightweight: schools manage their records directly in familiar Google Sheets, while Google Apps Script automatically syncs updates and triggers instant USSD access and SMS alerts.**
 
 ---
 
