@@ -1,0 +1,11 @@
+{
+  "secret": "your_secure_random_webhook_secret_here",
+  "phone_number": "+254712345678",
+  "student_id": "ADM-1001",
+  "name": "Jane Doe",
+  "fees_due": "KES 15,000",
+  "attendance": "95% (Present 38/40 days)",
+  "latest_grade": "Mathematics: A | English: B+ | Science: A-",
+  "send_sms": true,
+  "sms_custom_message": "Dear Parent, fee reminder for Jane Doe (ADM-1001). Outstanding balance: KES 15,000. Dial *384*73355# anytime to check status."
+}

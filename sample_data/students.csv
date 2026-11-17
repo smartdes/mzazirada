@@ -1,0 +1,6 @@
+adm_no,student_name,parent_phone,attendance,latest_grade
+ADM-1001,Jane Doe,+254712345678,95% (Present 38/40 days),Mathematics: A | English: B+ | Science: A-
+ADM-1002,Brian Kiprop,+254722000001,92% (Present 37/40 days),Mathematics: B+ | English: A | Science: B
+ADM-1003,Faith Mwangi,+254722000002,98% (Present 39/40 days),Mathematics: A | English: A | Science: A
+ADM-1004,Kevin Otieno,+254722000003,85% (Present 34/40 days),Mathematics: C+ | English: B | Science: B-
+ADM-1005,Amina Hassan,+254722000004,100% (Present 40/40 days),Mathematics: A | English: A | Science: A
